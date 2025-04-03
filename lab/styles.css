@@ -2,6 +2,10 @@
   box-sizing: border-box;
 }
 
+.header img {
+  width: 100%;
+}
+
 /* Style the body */
 body {
   font-family: 'Open Sans', sans-serif;
