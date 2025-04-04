@@ -61,6 +61,14 @@ a {
   background-color: #fff;
 }
 
+.search{
+  background-color: #fff;
+  margin: 5px 0;
+    color: rgb(0, 172, 237);
+    font-size: 1.2rem;
+    padding: 10px;
+}
+
 .dark {
   background-color: #707173;
   color: #fff;
