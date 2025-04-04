@@ -261,3 +261,47 @@ a {
   font-family: 'Font Awesome 6 brands';
   /* font-weight: 400; */
 }
+
+
+.micuenta{
+    -webkit-text-size-adjust: 100%;
+    -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+    font-stretch: normal;
+    box-sizing: border-box;
+    font-family: "Open Sans", sans-serif;
+    text-decoration: none;
+    position: relative;
+    min-height: 1px;
+    display: inline-block;
+    margin-bottom: 0;
+    margin-left: 10px;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    touch-action: manipulation;
+    cursor: pointer;
+    border: 1px solid transparent;
+    padding: 6px 12px;
+    user-select: none;
+    color: #ffffff !important;
+    font-size: 1.1em;
+    text-transform: uppercase;
+    font-weight: bold;
+    border-radius: 1px;
+    background: #00aced;
+    border-color: #00aced;
+    transition: 0.3s;
+    padding-left: 10px !important;
+    padding-right: 10px !important;
+    background-color: #00aced !important;
+    height: 44px;
+    line-height: 32px;
+      transition: all 0.2s ease-in-out;
+  }
+
+
+  .micuenta:hover{
+        background: #fff !important;
+    border-color: #fff !important;
+    color: #00aced !important;
+  }
